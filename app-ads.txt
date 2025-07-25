@@ -1,5 +1,6 @@
 google.com, pub-6878572687472329, DIRECT, f08c47fec0942fa0
 aps.amazon.com, 9417209, DIRECT
+facebook.com, 1857194111515321, RESELLER, c3e20eee3f780d68
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 xandr.com, 16546, RESELLER
